@@ -1,6 +1,7 @@
 # timepicker
 
 > dusiqi's timepicker
+this is a timepicker component created by vue without any plugin
 
 ## Build Setup
 
